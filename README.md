@@ -4,6 +4,12 @@ Sistema de Eventos encomendado pela Morena.
 
 [![Build Status](https://travis-ci.org/dieisoncomix/wttd.svg?branch=master)](https://travis-ci.org/dieisoncomix/wttd)
 
+[![Coverage Status](https://coveralls.io/repos/github/dieisoncomix/wttd/badge.svg?branch=master)](https://coveralls.io/github/dieisoncomix/wttd?branch=master)
+
+[![Maintainability](https://api.codeclimate.com/v1/badges/31a43bed14565486e996/maintainability)](https://codeclimate.com/github/dieisoncomix/wttd/maintainability)
+
+[![Test Coverage](https://api.codeclimate.com/v1/badges/31a43bed14565486e996/test_coverage)](https://codeclimate.com/github/dieisoncomix/wttd/test_coverage)
+
 ## Como desenvolver
 
 1. Clone o Repositório.
