@@ -44,6 +44,8 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    # APPS de terceiros
+    'django_extensions',
     'eventex.core',
     'eventex.subscriptions',
 )
