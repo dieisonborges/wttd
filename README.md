@@ -2,11 +2,11 @@
 
 Sistema de Eventos encomendado pela Morena.
 
-[![Build Status](https://travis-ci.org/dieisoncomix/wttd.svg?branch=master)](https://travis-ci.org/dieisoncomix/wttd)
+[![Build Status](https://travis-ci.org/dieisonborges/wttd.svg?branch=master)](https://travis-ci.org/dieisonborges/wttd)
 
-[![Code Health](https://landscape.io/github/dieisoncomix/wttd/master/landscape.svg?style=flat)](https://landscape.io/github/dieisoncomix/wttd/master)
+[![Code Health](https://landscape.io/github/dieisonborges/wttd/master/landscape.svg?style=flat)](https://landscape.io/github/dieisonborges/wttd/master)
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/31a43bed14565486e996/maintainability)](https://codeclimate.com/github/dieisoncomix/wttd/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/31a43bed14565486e996/maintainability)](https://codeclimate.com/github/dieisonborges/wttd/maintainability)
 
 
 ## Como desenvolver
